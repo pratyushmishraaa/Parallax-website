@@ -1,0 +1,77 @@
+
+
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+.plx-1 {
+   width: 100%;
+   height: 600px;
+   background: url(Parallax-Background-Dark-03.jpg);
+   background-size: 100% 100%;
+   background-attachment: fixed;
+   
+}
+
+
+.plx-1 h2 {
+   margin: auto;
+   position: relative;
+   left: 500x;
+   top: 300px;
+   width: 250px;
+   height: 32px;
+   padding: 10px;
+   background-color: rgb(236, 130, 130);
+   color: rgb(0, 0, 0);
+   text-align: center;
+   border-radius: 15px;
+   font-family: Verdana;
+  font-size: 20px;
+   
+}
+
+
+.plx-2 {
+   width: 100%;
+   height: 600px;
+   background: url(Parallax-Background-Dark-03.jpg);
+   background-size: 100% 100%;
+   background-attachment: fixed;
+}
+
+
+.plx-2 h2 {
+   margin: auto;
+   position: relative;
+   left: 500x;
+   top: 300px;
+   width: 250px;
+   height: 37px;
+   padding: 10px;
+   background-color: rgb(241, 131, 131);
+   color: black;
+   text-align: center;
+  font-family: Verdana;
+  font-size: 30px;
+   border-radius: 15px;
+}
+
+
+.pra-1 {
+   padding: 50px;
+   background-color: rgb(231, 141, 141);
+   color:black;
+   font-size: 17px;
+}
+.pra-2 {
+   text-align: center;
+   padding: 25px;
+   font-size: 17px;
+   font-family: Verdana;
+   background-color: rgb(231, 141, 141);
+   color:black;
+}
+
+
